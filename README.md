@@ -24,3 +24,4 @@ Where:
 - Closed-loop simulation of system response
 - Step response analysis (overshoot, settling time, rise time)
 
+![Step Response](PID_MassSpringDamper/figures/step_response.png)
