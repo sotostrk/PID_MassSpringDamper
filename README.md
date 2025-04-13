@@ -23,6 +23,4 @@ Where:
 - PID controller design using manual tuning
 - Closed-loop simulation of system response
 - Step response analysis (overshoot, settling time, rise time)
-##  Sample Output
 
-![Step Response](figures/step_response.png)
